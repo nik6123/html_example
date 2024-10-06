@@ -1,3 +1,4 @@
 # html_example
 Пример простой веб-страницы
-Мойвторой репозиторий
+Мой второй репозиторий
+This is my first in my life repositiry
